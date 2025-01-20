@@ -211,3 +211,7 @@ CALL CancelOrder(5);
 
 ### Interactive Dashboard
 ![Dashboard](./Images/tableau-task5.png)
+=======
+# Meta-Database-Engineer-Capstone-project
+The Little Lemon Restaurant Management System optimizes operations with MySQL for database management and Tableau for data visualization. Part of the Meta Database Engineer Certificate, it streamlines bookings, orders, and inventory management. The project demonstrates integration of database modeling and analytics for efficient resource handling.
+>>>>>>> e0526fc4d53036be0a1f964c40cf5bf09cca4955
